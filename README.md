@@ -1,5 +1,7 @@
 # 2-Agent Chess Game using Minmax 
 I collaborated with my team to develop and deliver this project.
+
+
 Description: Design the interface that will allow to play chess between the human user and the system. Assume that the user has two powers (boat and king) and the system has only one king. The game can be ended with a number of points remaining. Initially, the user is given 1000 points as a positive balance. There are some rules and constraints of the game as follows.
 A.      The king can move to any direction (up, down, right, left, top-right corner, top-left corner, bottom-right corner, bottom-left corner) but limited to one step at a time.
 B.      The boat can move any step-count at a time but in one direction at a time (left, right, up, down). No corner direction allowed.
